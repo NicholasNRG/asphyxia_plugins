@@ -14190,7 +14190,8 @@
 		<property __type="u32">512</property>
 		<limited_ary __type="s32" __count="10">0 0 0 0 0 -1 0 0 0 0</limited_ary>
 		<diffLv __type="u8" __count="10">3 7 12 14 16 0 7 12 14 16</diffLv>
-	<bpmmax __type="u16">170</bpmmax></music>
+		<bpmmax __type="u16">170</bpmmax>
+	</music>
 	<music>
 		<mcode __type="u32">38660</mcode>
 		<basename>drat</basename>
@@ -14200,8 +14201,9 @@
 		<series __type="u8">21</series>
 		<property __type="u32">512</property>
 		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-        <diffLv __type="u8" __count="10">1 4 8 12 0 0 4 8 12 0</diffLv>
-	<bpmmax __type="u16">133</bpmmax></music>
+		<diffLv __type="u8" __count="10">1 4 8 12 0 0 4 8 12 0</diffLv>
+		<bpmmax __type="u16">133</bpmmax>
+	</music>
 	<music>
 		<mcode __type="u32">38661</mcode>
 		<basename>hyno</basename>
@@ -14212,7 +14214,8 @@
 		<property __type="u32">512</property>
 		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
 		<diffLv __type="u8" __count="10">3 5 9 12 0 0 5 9 12 0</diffLv>
-	<bpmmax __type="u16">152</bpmmax></music>
+		<bpmmax __type="u16">152</bpmmax>
+	</music>
 	<music>
 		<mcode __type="u32">38662</mcode>
 		<basename>baaw</basename>
@@ -14223,7 +14226,8 @@
 		<property __type="u32">512</property>
 		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
 		<diffLv __type="u8" __count="10">2 5 8 13 0 0 4 8 13 0</diffLv>
-	<bpmmax __type="u16">115</bpmmax></music>
+		<bpmmax __type="u16">115</bpmmax>
+	</music>
 	<music>
 		<mcode __type="u32">38663</mcode>
 		<basename>arca</basename>
@@ -14234,7 +14238,8 @@
 		<property __type="u32">512</property>
 		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
 		<diffLv __type="u8" __count="10">3 7 10 13 0 0 7 10 13 0</diffLv>
-	<bpmmax __type="u16">177</bpmmax></music>
+		<bpmmax __type="u16">177</bpmmax>
+	</music>
 	<music>
 		<mcode __type="u32">38664</mcode>
 		<basename>dflo</basename>
@@ -14245,117 +14250,128 @@
 		<property __type="u32">512</property>
 		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
 		<diffLv __type="u8" __count="10">3 7 9 12 0 0 7 9 12 0</diffLv>
-	<bpmmax __type="u16">178</bpmmax></music>
-  <music>
-    <mcode __type="u32">38665</mcode>
-    <basename>grco</basename>
-    <title>Gravity Collapse</title>
-    <title_yomi>gravitycollapse</title_yomi>
-    <artist>X-END</artist>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 0 -1 0 0 0 0</limited_ary>
-    <diffLv __type="u8" __count="10">3 6 10 13 15 0 6 10 13 15</diffLv>
-  <bpmmax __type="u16">150</bpmmax></music>
-  <music>
-    <mcode __type="u32">38666</mcode>
-    <basename>swfr</basename>
-    <title>Sweetin' Fruity</title>
-    <title_yomi>sweetinfruity</title_yomi>
-    <artist>Malixi</artist>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">3 7 10 14 0 0 7 10 14 0</diffLv>
-  <bpmmax __type="u16">150</bpmmax></music>
-  <music>
-    <mcode __type="u32">38667</mcode>
-    <basename>kyok</basename>
-    <title>極地大衝撃</title>
-    <title_yomi>キヨクチタイシヨウケキ</title_yomi>
-    <artist>Kolaa</artist>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">3 6 9 12 0 0 6 9 12 0</diffLv>
-  <bpmmax __type="u16">138</bpmmax></music>
-  <music>
-    <mcode __type="u32">38668</mcode>
-    <basename>woco</basename>
-    <title>WONDER COASTER</title>
-    <title_yomi>wondercoaster</title_yomi>
-    <artist>MUGIPONG</artist>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">3 6 10 13 0 0 6 10 13 0</diffLv>
-  <bpmmax __type="u16">172</bpmmax></music>
-  <music>
-    <mcode __type="u32">38669</mcode>
-    <basename>roli</basename>
-    <title>Roche Limit</title>
-    <title_yomi>rochelimit</title_yomi>
-    <artist>Felysrator</artist>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 0 -1 0 0 0 0</limited_ary>
-    <diffLv __type="u8" __count="10">3 7 11 14 15 0 7 11 14 15</diffLv>
-  <bpmmax __type="u16">160</bpmmax></music>
-  <music>
-    <mcode __type="u32">38670</mcode>
-    <basename>hera</basename>
-    <title>Heavy Rain</title>
-    <title_yomi>heavyrain</title_yomi>
-    <artist>Amebre Kizami</artist>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">4 7 10 13 0 0 7 10 13 0</diffLv>
-  <bpmmax __type="u16">174</bpmmax></music>
-  <music>
-    <mcode __type="u32">38671</mcode>
-    <basename>th88</basename>
-    <title>The 88's Instigation</title>
-    <title_yomi>the88sinstigation</title_yomi>
-    <artist>MYUKKE.</artist>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">1 4 8 13 0 0 4 8 13 0</diffLv>
-  <bpmmax __type="u16">135</bpmmax></music>
-  <music>
-    <mcode __type="u32">38672</mcode>
-    <basename>asbo</basename>
-    <title>The Ashes of Boreas</title>
-    <title_yomi>theashesofboreas</title_yomi>
-    <artist>Se-U-Ra</artist>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">2 4 9 13 0 0 4 9 13 0</diffLv>
-  <bpmmax __type="u16">148</bpmmax></music>
-  <music>
-    <mcode __type="u32">38680</mcode>
-    <basename>orpu</basename>
-    <title>Origin Pulsation</title>
-    <title_yomi>originpulsation</title_yomi>
-    <artist>Alkome</artist>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">3 6 11 14 0 0 6 11 14 0</diffLv>
-  <bpmmax __type="u16">170</bpmmax></music>
-  <music>
-    <mcode __type="u32">38688</mcode>
-    <basename>dshc</basename>
-    <title>Don't Stop The HYPERCORE</title>
-    <title_yomi>dontstopthehypercore</title_yomi>
-    <artist>Halv</artist>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">3 7 11 14 0 0 7 11 14 0</diffLv>
-  <bpmmax __type="u16">178</bpmmax></music>
+		<bpmmax __type="u16">178</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38665</mcode>
+		<basename>grco</basename>
+		<title>Gravity Collapse</title>
+		<title_yomi>gravitycollapse</title_yomi>
+		<artist>X-END</artist>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 0 -1 0 0 0 0</limited_ary>
+		<diffLv __type="u8" __count="10">3 6 10 13 15 0 6 10 13 15</diffLv>
+		<bpmmax __type="u16">150</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38666</mcode>
+		<basename>swfr</basename>
+		<title>Sweetin' Fruity</title>
+		<title_yomi>sweetinfruity</title_yomi>
+		<artist>Malixi</artist>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">3 7 10 14 0 0 7 10 14 0</diffLv>
+		<bpmmax __type="u16">150</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38667</mcode>
+		<basename>kyok</basename>
+		<title>極地大衝撃</title>
+		<title_yomi>キヨクチタイシヨウケキ</title_yomi>
+		<artist>Kolaa</artist>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">3 6 9 12 0 0 6 9 12 0</diffLv>
+		<bpmmax __type="u16">138</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38668</mcode>
+		<basename>woco</basename>
+		<title>WONDER COASTER</title>
+		<title_yomi>wondercoaster</title_yomi>
+		<artist>MUGIPONG</artist>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">3 6 10 13 0 0 6 10 13 0</diffLv>
+		<bpmmax __type="u16">172</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38669</mcode>
+		<basename>roli</basename>
+		<title>Roche Limit</title>
+		<title_yomi>rochelimit</title_yomi>
+		<artist>Felysrator</artist>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 0 -1 0 0 0 0</limited_ary>
+		<diffLv __type="u8" __count="10">3 7 11 14 15 0 7 11 14 15</diffLv>
+		<bpmmax __type="u16">160</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38670</mcode>
+		<basename>hera</basename>
+		<title>Heavy Rain</title>
+		<title_yomi>heavyrain</title_yomi>
+		<artist>Amebre Kizami</artist>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">4 7 10 13 0 0 7 10 13 0</diffLv>
+		<bpmmax __type="u16">174</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38671</mcode>
+		<basename>th88</basename>
+		<title>The 88's Instigation</title>
+		<title_yomi>the88sinstigation</title_yomi>
+		<artist>MYUKKE.</artist>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">1 4 8 13 0 0 4 8 13 0</diffLv>
+		<bpmmax __type="u16">135</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38672</mcode>
+		<basename>asbo</basename>
+		<title>The Ashes of Boreas</title>
+		<title_yomi>theashesofboreas</title_yomi>
+		<artist>Se-U-Ra</artist>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">2 4 9 13 0 0 4 9 13 0</diffLv>
+		<bpmmax __type="u16">148</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38680</mcode>
+		<basename>orpu</basename>
+		<title>Origin Pulsation</title>
+		<title_yomi>originpulsation</title_yomi>
+		<artist>Alkome</artist>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">3 6 11 14 0 0 6 11 14 0</diffLv>
+		<bpmmax __type="u16">170</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38688</mcode>
+		<basename>dshc</basename>
+		<title>Don't Stop The HYPERCORE</title>
+		<title_yomi>dontstopthehypercore</title_yomi>
+		<artist>Halv</artist>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">3 7 11 14 0 0 7 11 14 0</diffLv>
+		<bpmmax __type="u16">178</bpmmax>
+	</music>
 	<music>
 		<mcode __type="u32">38701</mcode>
 		<basename>y3s3</basename>
@@ -14389,157 +14405,166 @@
 		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
 		<diffLv __type="u8" __count="10">5 10 15 18 0 0 10 15 18 0</diffLv>
 	</music>
-  <music>
-    <mcode __type="u32">38704</mcode>
-    <basename>kyal</basename>
-    <title>強風オールバック</title>
-    <title_yomi>キヨウフウオオルハツク</title_yomi>
-    <artist>Yukopi</artist>
-    <series __type="u8">21</series>
-    <region __type="u8">2</region>
-    <movie __type="u8">1</movie>
-    <property __type="u32">11</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">1 4 9 12 0 0 4 9 12 0</diffLv>
-  <bpmmax __type="u16">135</bpmmax></music>
-  <music>
-    <mcode __type="u32">38705</mcode>
-    <basename>vamp</basename>
-    <title>ヴァンパイア</title>
-    <title_yomi>ウアンハイア</title_yomi>
-    <artist>DECO*27</artist>
-    <series __type="u8">21</series>
-    <region __type="u8">2</region>
-    <movie __type="u8">1</movie>
-    <property __type="u32">11</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">2 6 10 13 0 0 6 10 13 0</diffLv>
-  <bpmmax __type="u16">164</bpmmax></music>
-  <music>
-    <mcode __type="u32">38706</mcode>
-    <basename>tokm</basename>
-    <title>匿名M</title>
-    <title_yomi>トクメイエム</title_yomi>
-    <artist>ピノキオピー</artist>
-    <bpmmax __type="u16">140</bpmmax>
-    <series __type="u8">21</series>
-    <region __type="u8">2</region>
-    <movie __type="u8">1</movie>
-    <property __type="u32">10</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">1 4 9 13 0 0 4 9 13 0</diffLv>
-  </music>
-  <music>
-    <mcode __type="u32">38707</mcode>
-    <basename>jitu2</basename>
-    <title>Steps to the Star</title>
-    <title_yomi>stepstothestar</title_yomi>
-    <artist>BEMANI Sound Team "Coyaan &amp; KE!JU 1%"</artist>
-    <series __type="u8">21</series>
-    <voice __type="u8">1</voice>
-    <limited_ary __type="s32" __count="10">0 -1 -1 -1 -1 -1 -1 -1 -1 -1</limited_ary>
-    <diffLv __type="u8" __count="10">6 0 0 0 0 0 0 0 0 0</diffLv>
-  <bpmmax __type="u16">124</bpmmax></music>
-  <music>
-	<mcode __type="u32">38708</mcode>
-	<basename>smxx</basename>
-	<title>DDR System Songs+Replicant Mix </title>
-	<title_yomi>ddrsystemsongsreplicantmix</title_yomi>
-	<artist>BEMANI Sound Team</artist>
-	<bpmmax __type="u16">159</bpmmax>
-	<series __type="u8">20</series>
-	<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-	<diffLv __type="u8" __count="10">1 5 10 13 0 0 5 10 13 0</diffLv>
-  </music>
-  <music>
-	<mcode __type="u32">38720</mcode>
-	<basename>meh4</basename>
-	<title>melody H4CKER</title>
-	<title_yomi>melodyh4cker</title_yomi>
-	<artist>Moe Shop</artist>
-	<bpmmax __type="u16">155</bpmmax>
-	<series __type="u8">20</series>
-	<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-	<diffLv __type="u8" __count="10">2 6 12 15 0 0 6 11 15 0</diffLv>
+	<music>
+		<mcode __type="u32">38704</mcode>
+		<basename>kyal</basename>
+		<title>強風オールバック</title>
+		<title_yomi>キヨウフウオオルハツク</title_yomi>
+		<artist>Yukopi</artist>
+		<series __type="u8">21</series>
+		<region __type="u8">2</region>
+		<movie __type="u8">1</movie>
+		<property __type="u32">11</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">1 4 9 12 0 0 4 9 12 0</diffLv>
+		<bpmmax __type="u16">135</bpmmax>
 	</music>
-  <music>
-    <mcode __type="u32">38721</mcode>
-    <basename>saib</basename>
-    <title>サインはB -New Arrange Ver.-</title>
-    <title_yomi>サインハbnewarrangever</title_yomi>
-    <artist>B小町 ルビー（CV：伊駒ゆりえ）、有馬かな（CV：潘めぐみ）、MEMちょ（CV：大久保瑠美）</artist>
-    <series __type="u8">21</series>
-    <region __type="u8">2</region>
-    <property __type="u32">18</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">2 4 8 12 0 0 4 8 12 0</diffLv>
-  <bpmmax __type="u16">175</bpmmax></music>
-  <music>
-    <mcode __type="u32">38722</mcode>
-    <basename>hito</basename>
-    <title>人マニア</title>
-    <title_yomi>ヒトマニア</title_yomi>
-    <artist>原口沙輔</artist>
-    <series __type="u8">21</series>
-    <region __type="u8">2</region>
-    <movie __type="u8">1</movie>
-    <property __type="u32">10</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">2 6 10 14 0 0 6 10 14 0</diffLv>
-  <bpmmax __type="u16">150</bpmmax></music>
-  <music>
-    <mcode __type="u32">38723</mcode>
-    <basename>shuk</basename>
-    <title>粛聖!! ロリ神レクイエム☆</title>
-    <title_yomi>シユクセイロリカミレクイエム</title_yomi>
-    <artist>しぐれうい (9さい)</artist>
-    <series __type="u8">21</series>
-    <region __type="u8">2</region>
-    <movie __type="u8">1</movie>
-    <property __type="u32">11</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 0 -1 0 0 0 0</limited_ary>
-    <diffLv __type="u8" __count="10">2 4 9 14 12 0 5 10 14 12</diffLv>
-  <bpmmax __type="u16">165</bpmmax></music>
-  <music>
-    <mcode __type="u32">38724</mcode>
-    <basename>kyuk</basename>
-    <title>きゅうくらりん</title>
-    <title_yomi>キユウクラリン</title_yomi>
-    <artist>いよわ</artist>
-    <series __type="u8">21</series>
-    <region __type="u8">2</region>
-    <movie __type="u8">1</movie>
-    <property __type="u32">10</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">3 5 9 13 0 0 4 9 13 0</diffLv>
-  <bpmmax __type="u16">220</bpmmax></music>
-  <music>
-    <mcode __type="u32">38730</mcode>
-    <basename>neok</basename>
-    <title>寝起きヤシの木</title>
-    <title_yomi>ネオキヤシノキ</title_yomi>
-    <artist>Yukopi</artist>
-    <series __type="u8">21</series>
-    <region __type="u8">2</region>
-    <movie __type="u8">1</movie>
-    <property __type="u32">10</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">2 4 8 13 0 0 4 8 13 0</diffLv>
-  <bpmmax __type="u16">160</bpmmax></music>
-  <music>
-    <mcode __type="u32">38731</mcode>
-    <basename>buta</basename>
-    <title>ブタサンダー</title>
-    <title_yomi>フタサンタア</title_yomi>
-    <artist>Yukopi</artist>
-    <series __type="u8">21</series>
-    <region __type="u8">2</region>
-    <movie __type="u8">1</movie>
-    <property __type="u32">10</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">1 3 9 13 0 0 3 9 12 0</diffLv>
-  <bpmmax __type="u16">145</bpmmax></music>
-  	<music>
+	<music>
+		<mcode __type="u32">38705</mcode>
+		<basename>vamp</basename>
+		<title>ヴァンパイア</title>
+		<title_yomi>ウアンハイア</title_yomi>
+		<artist>DECO*27</artist>
+		<series __type="u8">21</series>
+		<region __type="u8">2</region>
+		<movie __type="u8">1</movie>
+		<property __type="u32">11</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">2 6 10 13 0 0 6 10 13 0</diffLv>
+		<bpmmax __type="u16">164</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38706</mcode>
+		<basename>tokm</basename>
+		<title>匿名M</title>
+		<title_yomi>トクメイエム</title_yomi>
+		<artist>ピノキオピー</artist>
+		<bpmmax __type="u16">140</bpmmax>
+		<series __type="u8">21</series>
+		<region __type="u8">2</region>
+		<movie __type="u8">1</movie>
+		<property __type="u32">10</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">1 4 9 13 0 0 4 9 13 0</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">38707</mcode>
+		<basename>jitu2</basename>
+		<title>Steps to the Star</title>
+		<title_yomi>stepstothestar</title_yomi>
+		<artist>BEMANI Sound Team "Coyaan &amp; KE!JU 1%"</artist>
+		<series __type="u8">21</series>
+		<voice __type="u8">1</voice>
+		<limited_ary __type="s32" __count="10">0 -1 -1 -1 -1 -1 -1 -1 -1 -1</limited_ary>
+		<diffLv __type="u8" __count="10">6 0 0 0 0 0 0 0 0 0</diffLv>
+		<bpmmax __type="u16">124</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38708</mcode>
+		<basename>smxx</basename>
+		<title>DDR System Songs+Replicant Mix </title>
+		<title_yomi>ddrsystemsongsreplicantmix</title_yomi>
+		<artist>BEMANI Sound Team</artist>
+		<bpmmax __type="u16">159</bpmmax>
+		<series __type="u8">20</series>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">1 5 10 13 0 0 5 10 13 0</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">38720</mcode>
+		<basename>meh4</basename>
+		<title>melody H4CKER</title>
+		<title_yomi>melodyh4cker</title_yomi>
+		<artist>Moe Shop</artist>
+		<bpmmax __type="u16">155</bpmmax>
+		<series __type="u8">20</series>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">2 6 12 15 0 0 6 11 15 0</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">38721</mcode>
+		<basename>saib</basename>
+		<title>サインはB -New Arrange Ver.-</title>
+		<title_yomi>サインハbnewarrangever</title_yomi>
+		<artist>B小町 ルビー（CV：伊駒ゆりえ）、有馬かな（CV：潘めぐみ）、MEMちょ（CV：大久保瑠美）</artist>
+		<series __type="u8">21</series>
+		<region __type="u8">2</region>
+		<property __type="u32">18</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">2 4 8 12 0 0 4 8 12 0</diffLv>
+		<bpmmax __type="u16">175</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38722</mcode>
+		<basename>hito</basename>
+		<title>人マニア</title>
+		<title_yomi>ヒトマニア</title_yomi>
+		<artist>原口沙輔</artist>
+		<series __type="u8">21</series>
+		<region __type="u8">2</region>
+		<movie __type="u8">1</movie>
+		<property __type="u32">10</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">2 6 10 14 0 0 6 10 14 0</diffLv>
+		<bpmmax __type="u16">150</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38723</mcode>
+		<basename>shuk</basename>
+		<title>粛聖!! ロリ神レクイエム☆</title>
+		<title_yomi>シユクセイロリカミレクイエム</title_yomi>
+		<artist>しぐれうい (9さい)</artist>
+		<series __type="u8">21</series>
+		<region __type="u8">2</region>
+		<movie __type="u8">1</movie>
+		<property __type="u32">11</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 0 -1 0 0 0 0</limited_ary>
+		<diffLv __type="u8" __count="10">2 4 9 14 12 0 5 10 14 12</diffLv>
+		<bpmmax __type="u16">165</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38724</mcode>
+		<basename>kyuk</basename>
+		<title>きゅうくらりん</title>
+		<title_yomi>キユウクラリン</title_yomi>
+		<artist>いよわ</artist>
+		<series __type="u8">21</series>
+		<region __type="u8">2</region>
+		<movie __type="u8">1</movie>
+		<property __type="u32">10</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">3 5 9 13 0 0 4 9 13 0</diffLv>
+		<bpmmax __type="u16">220</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38730</mcode>
+		<basename>neok</basename>
+		<title>寝起きヤシの木</title>
+		<title_yomi>ネオキヤシノキ</title_yomi>
+		<artist>Yukopi</artist>
+		<series __type="u8">21</series>
+		<region __type="u8">2</region>
+		<movie __type="u8">1</movie>
+		<property __type="u32">10</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">2 4 8 13 0 0 4 8 13 0</diffLv>
+		<bpmmax __type="u16">160</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38731</mcode>
+		<basename>buta</basename>
+		<title>ブタサンダー</title>
+		<title_yomi>フタサンタア</title_yomi>
+		<artist>Yukopi</artist>
+		<series __type="u8">21</series>
+		<region __type="u8">2</region>
+		<movie __type="u8">1</movie>
+		<property __type="u32">10</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">1 3 9 13 0 0 3 9 12 0</diffLv>
+		<bpmmax __type="u16">145</bpmmax>
+	</music>
+	<music>
 		<mcode __type="u32">38737</mcode>
 		<basename>safa2</basename>
 		<title>THE SAFARI (STARDOM Remix)</title>
@@ -14551,7 +14576,7 @@
 		<limited_ary __type="s32" __count="10">0 0 0 0 0 -1 0 0 0 0</limited_ary>
 		<diffLv __type="u8" __count="10">3 6 11 13 16 0 6 11 13 16</diffLv>
 	</music>
-  	<music>
+	<music>
 		<mcode __type="u32">38738</mcode>
 		<basename>onga2</basename>
 		<title>音楽 (STARDOM Remix)</title>
@@ -14563,74 +14588,79 @@
 		<limited_ary __type="s32" __count="10">0 0 0 0 0 -1 0 0 0 0</limited_ary>
 		<diffLv __type="u8" __count="10">2 5 8 12 17 0 5 8 12 17</diffLv>
 	</music>
-	  <music>
-    <mcode __type="u32">38695</mcode>
-    <basename>hd2u</basename>
-    <title>Happy Dance Day 2 U</title>
-    <title_yomi>happydanceday2u</title_yomi>
-    <artist>Shoichiro Hirata feat. ちょぴん</artist>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">3 7 11 14 0 0 7 11 14 0</diffLv>
-  <bpmmax __type="u16">137</bpmmax></music>
-  	<music>
-    <mcode __type="u32">38692</mcode>
-    <basename>movo</basename>
-    <title>Move On</title>
-    <title_yomi>moveon</title_yomi>
-    <artist>kors k feat. haru</artist>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">2 7 12 15 0 0 7 12 15 0</diffLv>
-  <bpmmax __type="u16">170</bpmmax></music>
-    <music>
-    <mcode __type="u32">38694</mcode>
-    <basename>nise</basename>
-    <title>Niji no Sekai</title>
-    <title_yomi>nijinosekai</title_yomi>
-    <artist>SOUND HOLIC feat. taru</artist>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">3 6 11 14 0 0 6 11 14 0</diffLv>
-  <bpmmax __type="u16">151</bpmmax></music>
-     <music>
-    <mcode __type="u32">38691</mcode>
-    <basename>kiun</basename>
-    <title>きらきら☆ユニバース</title>
-    <title_yomi>キラキラユニバース</title_yomi>
-    <artist>nagomu tamaki feat. ぽめ</artist>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">2 8 12 15 0 0 7 12 15 0</diffLv>
-  <bpmmax __type="u16">155</bpmmax></music>
-     <music>
-    <mcode __type="u32">38693</mcode>
-    <basename>odva</basename>
-    <title>踊れ！！バーチャルアニマル！！</title>
-    <title_yomi>オドレバーチャルアニマル</title_yomi>
-    <artist>nc feat. TOCORO十</artist>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">3 7 11 15 0 0 7 11 15 0</diffLv>
-  <bpmmax __type="u16">180</bpmmax></music>
-    <music>
-    <mcode __type="u32">38733</mcode>
-    <basename>imkk</basename>
-    <title>イマココ！この瞬間</title>
-    <title_yomi>イマコココノシユンカン</title_yomi>
-    <artist>日向美ビタースイーツ♪</artist>
-    <bpmmax __type="u16">152</bpmmax>
-    <series __type="u8">21</series>
-    <property __type="u32">128</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">2 5 9 12 0 0 5 9 12 0</diffLv>
-  </music>
-    <music>
+	<music>
+		<mcode __type="u32">38695</mcode>
+		<basename>hd2u</basename>
+		<title>Happy Dance Day 2 U</title>
+		<title_yomi>happydanceday2u</title_yomi>
+		<artist>Shoichiro Hirata feat. ちょぴん</artist>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">3 7 11 14 0 0 7 11 14 0</diffLv>
+		<bpmmax __type="u16">137</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38692</mcode>
+		<basename>movo</basename>
+		<title>Move On</title>
+		<title_yomi>moveon</title_yomi>
+		<artist>kors k feat. haru</artist>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">2 7 12 15 0 0 7 12 15 0</diffLv>
+		<bpmmax __type="u16">170</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38694</mcode>
+		<basename>nise</basename>
+		<title>Niji no Sekai</title>
+		<title_yomi>nijinosekai</title_yomi>
+		<artist>SOUND HOLIC feat. taru</artist>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">3 6 11 14 0 0 6 11 14 0</diffLv>
+		<bpmmax __type="u16">151</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38691</mcode>
+		<basename>kiun</basename>
+		<title>きらきら☆ユニバース</title>
+		<title_yomi>キラキラユニバース</title_yomi>
+		<artist>nagomu tamaki feat. ぽめ</artist>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">2 8 12 15 0 0 7 12 15 0</diffLv>
+		<bpmmax __type="u16">155</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38693</mcode>
+		<basename>odva</basename>
+		<title>踊れ！！バーチャルアニマル！！</title>
+		<title_yomi>オドレバーチャルアニマル</title_yomi>
+		<artist>nc feat. TOCORO十</artist>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">3 7 11 15 0 0 7 11 15 0</diffLv>
+		<bpmmax __type="u16">180</bpmmax>
+	</music>
+	<music>
+		<mcode __type="u32">38733</mcode>
+		<basename>imkk</basename>
+		<title>イマココ！この瞬間</title>
+		<title_yomi>イマコココノシユンカン</title_yomi>
+		<artist>日向美ビタースイーツ♪</artist>
+		<bpmmax __type="u16">152</bpmmax>
+		<series __type="u8">21</series>
+		<property __type="u32">128</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">2 5 9 12 0 0 5 9 12 0</diffLv>
+	</music>
+	<music>
 		<mcode __type="u32">38736</mcode>
 		<basename>suhr</basename>
 		<title>SUPER HEROINE!!</title>
@@ -14651,7 +14681,7 @@
 		<artist>SOUND HOLIC Vs. BEMANI Sound Team "KE!JU" feat. Nana Takahashi</artist>
 		<bpmmax __type="u16">160</bpmmax>
 		<series __type="u8">21</series>
-	    <movie __type="u8">1</movie>
+		<movie __type="u8">1</movie>
 		<property __type="u32">32</property>
 		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
 		<diffLv __type="u8" __count="10">3 7 12 15 0 0 7 12 15 0</diffLv>
@@ -14664,7 +14694,7 @@
 		<artist>豚乙女×BEMANI Sound Team "PON"</artist>
 		<bpmmax __type="u16">170</bpmmax>
 		<series __type="u8">21</series>
-	    <movie __type="u8">1</movie>
+		<movie __type="u8">1</movie>
 		<property __type="u32">32</property>
 		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
 		<diffLv __type="u8" __count="10">3 6 10 16 0 0 6 10 16 0</diffLv>
@@ -14690,169 +14720,157 @@
 		<artist>Pizuya's Cell VS BEMANI Sound Team "dj TAKA"</artist>
 		<bpmmax __type="u16">178</bpmmax>
 		<series __type="u8">21</series>
-	    <movie __type="u8">1</movie>
+		<movie __type="u8">1</movie>
 		<property __type="u32">32</property>
 		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
 		<diffLv __type="u8" __count="10">3 7 11 14 0 0 7 11 14 0</diffLv>
 	</music>
 	<music>
-    <mcode __type="u32">38677</mcode>
-    <basename>fiac</basename>
-    <title>First Action</title>
-    <title_yomi>firstaction</title_yomi>
-    <artist>setu-O</artist>
-    <bpmmax __type="u16">170</bpmmax>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">3 6 9 12 0 0 6 9 12 0</diffLv>
-  </music>
-  <music>
-    <mcode __type="u32">38678</mcode>
-    <basename>haji</basename>
-    <title>ハジマリノアイズ ft. りんたる</title>
-    <title_yomi>ハシマリノアイスftリンタル</title_yomi>
-    <artist>SPACELECTRO</artist>
-    <bpmmax __type="u16">128</bpmmax>
-    <series __type="u8">21</series>
-    <property __type="u32">512</property>
-    <limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
-    <diffLv __type="u8" __count="10">1 5 9 11 0 0 3 9 12 0</diffLv>
-  </music>
-  <music>
-    <mcode __type="u32">38745</mcode>
-    <basename>oroc</basename>
-    <title>OROCHI STRIKE</title>
-    <title_yomi>orochistrike</title_yomi>
-    <artist>Hommarju &amp; BEMANI Sound Team "兎々"</artist>
-    <series __type="u8">21</series>
-    <limited_ary __type="s32" __count="10">1 1 1 1 -1 -1 1 1 1 -1</limited_ary>
-    <diffLv __type="u8" __count="10">3 7 12 16 0 0 7 12 16 0</diffLv>
-  </music>
-  <music>
-    <mcode __type="u32">38747</mcode>
-    <basename>rein</basename>
-    <title>REINCARNATION</title>
-    <title_yomi>reincarnation</title_yomi>
-    <artist>P*Light</artist>
-    <series __type="u8">21</series>
-    <limited_ary __type="s32" __count="10">1 1 1 1 -1 -1 1 1 1 -1</limited_ary>
-    <diffLv __type="u8" __count="10">4 19 15 18 0 0 10 15 18 0</diffLv>
-  </music>
-  <music>
-    <mcode __type="u32">38748</mcode>
-    <basename>rhyz</basename>
-    <title>Re:RHYZE</title>
-    <title_yomi>rerhyze</title_yomi>
-    <artist>beatnation RHYZE</artist>
-    <series __type="u8">21</series>
-    <limited_ary __type="s32" __count="10">1 1 1 1 -1 -1 1 1 1 -1</limited_ary>
-    <diffLv __type="u8" __count="10">4 8 13 16 0 0 9 13 16 0</diffLv>
-  </music>
-  <music>
-    <mcode __type="u32">38734</mcode>
-    <basename>swht</basename>
-    <title>So What</title>
-    <title_yomi>sowhat</title_yomi>
-    <artist>PRIDASK</artist>
-    <bpmmax __type="u16">128</bpmmax>
-    <series __type="u8">21</series>
-    <movie __type="u8">1</movie>
-    <limited_ary __type="s32" __count="10">1 1 1 1 1 -1 1 1 1 1</limited_ary>
-    <diffLv __type="u8" __count="10">3 6 10 14 17 0 9 13 17 18</diffLv>
-  </music>
-  <music>
-    <mcode __type="u32">38622</mcode>
-    <basename>tthd</basename>
-    <title>Time to HYPERDRIVE</title>
-    <title_yomi>timetohyperdrive</title_yomi>
-    <artist>Savage States</artist>
-    <series __type="u8">21</series>
-    <limited_ary __type="s32" __count="10">1 1 1 1 -1 -1 1 1 1 -1</limited_ary>
-    <diffLv __type="u8" __count="10">2 6 10 15 0 0 9 13 17 0</diffLv>
-  </music>
-  <music>
-    <mcode __type="u32">38392</mcode>
-    <basename>esco</basename>
-    <title>Electronic Sports Complex</title>
-    <title_yomi>electronicsportscomplex</title_yomi>
-    <artist>栄免建設</artist>
-    <bpmmin __type="u16">110</bpmmin>
-    <bpmmax __type="u16">220</bpmmax>
-    <series __type="u8">20</series>
-    <limited_ary __type="s32" __count="10">1 1 1 1 -1 -1 1 1 1 -1</limited_ary>
-    <diffLv __type="u8" __count="10">2 6 9 15 0 0 9 13 17 0</diffLv>
-  </music>
-  <music>
-    <mcode __type="u32">38744</mcode>
-    <basename>lich</basename>
-    <title>Lichtsäule</title>
-    <title_yomi>lichtsaule</title_yomi>
-    <artist>かめりあ &amp; BEMANI Sound Team "PHQUASE"</artist>
-    <series __type="u8">21</series>
-    <limited_ary __type="s32" __count="10">1 1 1 1 -1 -1 1 1 1 -1</limited_ary>
-    <diffLv __type="u8" __count="10">4 7 13 17 0 0 7 13 17 0</diffLv>
-  </music>
-  <music>
-    <mcode __type="u32">37234</mcode>
-    <basename>ngon</basename>
-    <title>Moving On</title>
-    <title_yomi>movingon</title_yomi>
-    <artist>J.J. Pops</artist>
-    <series __type="u8">21</series>
-    <limited_ary __type="s32" __count="10">1 1 1 1 -1 -1 1 1 1 -1</limited_ary>
-    <diffLv __type="u8" __count="10">1 6 9 13 0 0 9 13 17 0</diffLv>
-  </music>
-  <music>
-    <mcode __type="u32">37363</mcode>
-    <basename>noma</basename>
-    <title>No Matter What</title>
-    <title_yomi>nomatterwhat</title_yomi>
-    <artist>jun feat.Rita Boudreau</artist>
-    <series __type="u8">21</series>
-    <limited_ary __type="s32" __count="10">1 1 1 1 -1 -1 1 1 1 -1</limited_ary>
-    <diffLv __type="u8" __count="10">1 7 9 11 0 0 9 13 17 0</diffLv>
-  </music>
-  <music>
-    <mcode __type="u32">38749</mcode>
-    <basename>akat</basename>
-    <title>Akatsuki</title>
-    <title_yomi>akatsuki</title_yomi>
-    <artist>PRIDASK</artist>
-    <series __type="u8">21</series>
-    <region __type="u8">2</region>
-    <movie __type="u8">1</movie>
-    <limited_ary __type="s32" __count="10">1 1 1 1 1 -1 1 1 1 1</limited_ary>
-    <diffLv __type="u8" __count="10">2 5 9 10 17 0 9 13 16 17</diffLv>
-  </music>
-  <music>
-    <mcode __type="u32">37222</mcode>
-    <basename>bdow</basename>
-    <title>BRE∀K DOWN! (World Version)</title>
-    <title_yomi>breakdown'worldversion'</title_yomi>
-    <artist>ELE ROCKS</artist>
-    <series __type="u8">21</series>
-    <limited_ary __type="s32" __count="10">1 1 1 1 -1 -1 1 1 1 -1</limited_ary>
-    <diffLv __type="u8" __count="10">3 7 8 14 0 0 9 13 16 0</diffLv>
-  </music>
-  <music>
-    <mcode __type="u32">38746</mcode>
-    <basename>blco</basename>
-    <title>Blφφdy Cφncertφ</title>
-    <title_yomi>bloodyconcerto</title_yomi>
-    <artist>OSTER project &amp; RoughSketch</artist>
-    <series __type="u8">21</series>
-    <limited_ary __type="s32" __count="10">1 1 1 1 -1 -1 1 1 1 -1</limited_ary>
-    <diffLv __type="u8" __count="10">4 8 14 16 0 0 8 14 16 0</diffLv>
-  </music>
-  <music>
-    <mcode __type="u32">37604</mcode>
-    <basename>elrt</basename>
-    <title>El ritmo te controla </title>
-    <title_yomi>elritmotecontrola</title_yomi>
-    <artist>Jeanette Herrera  </artist>
-    <series __type="u8">21</series>
-    <limited_ary __type="s32" __count="10">1 1 1 1 1 -1 1 1 1 1</limited_ary>
-    <diffLv __type="u8" __count="10">2 4 6 17 18 0 9 13 16 18</diffLv>
-  </music>
+		<mcode __type="u32">38677</mcode>
+		<basename>fiac</basename>
+		<title>First Action</title>
+		<title_yomi>firstaction</title_yomi>
+		<artist>setu-O</artist>
+		<bpmmax __type="u16">170</bpmmax>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">3 6 9 12 0 0 6 9 12 0</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">38678</mcode>
+		<basename>haji</basename>
+		<title>ハジマリノアイズ ft. りんたる</title>
+		<title_yomi>ハシマリノアイスftリンタル</title_yomi>
+		<artist>SPACELECTRO</artist>
+		<bpmmax __type="u16">128</bpmmax>
+		<series __type="u8">21</series>
+		<property __type="u32">512</property>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">1 5 9 11 0 0 3 9 12 0</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">38745</mcode>
+		<basename>oroc</basename>
+		<title>OROCHI STRIKE</title>
+		<title_yomi>orochistrike</title_yomi>
+		<artist>Hommarju &amp; BEMANI Sound Team "兎々"</artist>
+		<series __type="u8">21</series>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">3 7 12 16 0 0 7 12 16 0</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">38747</mcode>
+		<basename>rein</basename>
+		<title>REINCARNATION</title>
+		<title_yomi>reincarnation</title_yomi>
+		<artist>P*Light</artist>
+		<series __type="u8">21</series>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">4 10 15 18 0 0 10 15 18 0</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">38748</mcode>
+		<basename>rhyz</basename>
+		<title>Re:RHYZE</title>
+		<title_yomi>rerhyze</title_yomi>
+		<artist>beatnation RHYZE</artist>
+		<series __type="u8">21</series>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">4 9 13 16 0 0 9 13 16 0</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">38734</mcode>
+		<basename>swht</basename>
+		<title>So What</title>
+		<title_yomi>sowhat</title_yomi>
+		<artist>PRIDASK</artist>
+		<bpmmax __type="u16">128</bpmmax>
+		<series __type="u8">21</series>
+		<movie __type="u8">1</movie>
+		<limited_ary __type="s32" __count="10">1 1 1 1 1 -1 1 1 1 1</limited_ary>
+		<diffLv __type="u8" __count="10">3 6 10 14 17 0 9 13 17 18</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">38622</mcode>
+		<basename>tthd</basename>
+		<title>Time to HYPERDRIVE</title>
+		<title_yomi>timetohyperdrive</title_yomi>
+		<artist>Savage States</artist>
+		<series __type="u8">21</series>
+		<limited_ary __type="s32" __count="10">1 1 1 1 -1 -1 1 1 1 -1</limited_ary>
+		<diffLv __type="u8" __count="10">2 6 10 15 0 0 9 13 17 0</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">38744</mcode>
+		<basename>lich</basename>
+		<title>Lichtsäule</title>
+		<title_yomi>lichtsaule</title_yomi>
+		<artist>かめりあ &amp; BEMANI Sound Team "PHQUASE"</artist>
+		<series __type="u8">21</series>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">4 7 13 17 0 0 7 13 17 0</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">37234</mcode>
+		<basename>ngon</basename>
+		<title>Moving On</title>
+		<title_yomi>movingon</title_yomi>
+		<artist>J.J. Pops</artist>
+		<series __type="u8">21</series>
+		<limited_ary __type="s32" __count="10">1 1 1 1 -1 -1 1 1 1 -1</limited_ary>
+		<diffLv __type="u8" __count="10">1 6 9 13 0 0 9 13 17 0</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">37363</mcode>
+		<basename>noma</basename>
+		<title>No Matter What</title>
+		<title_yomi>nomatterwhat</title_yomi>
+		<artist>jun feat.Rita Boudreau</artist>
+		<series __type="u8">21</series>
+		<limited_ary __type="s32" __count="10">1 1 1 1 -1 -1 1 1 1 -1</limited_ary>
+		<diffLv __type="u8" __count="10">1 7 9 11 0 0 9 13 17 0</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">38749</mcode>
+		<basename>akat</basename>
+		<title>Akatsuki</title>
+		<title_yomi>akatsuki</title_yomi>
+		<artist>PRIDASK</artist>
+		<series __type="u8">21</series>
+		<region __type="u8">2</region>
+		<movie __type="u8">1</movie>
+		<limited_ary __type="s32" __count="10">1 1 1 1 1 -1 1 1 1 1</limited_ary>
+		<diffLv __type="u8" __count="10">2 5 9 10 17 0 9 13 16 17</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">37222</mcode>
+		<basename>bdow</basename>
+		<title>BRE∀K DOWN! (World Version)</title>
+		<title_yomi>breakdown'worldversion'</title_yomi>
+		<artist>ELE ROCKS</artist>
+		<series __type="u8">21</series>
+		<limited_ary __type="s32" __count="10">1 1 1 1 -1 -1 1 1 1 -1</limited_ary>
+		<diffLv __type="u8" __count="10">3 7 8 14 0 0 9 13 16 0</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">38746</mcode>
+		<basename>blco</basename>
+		<title>Blφφdy Cφncertφ</title>
+		<title_yomi>bloodyconcerto</title_yomi>
+		<artist>OSTER project &amp; RoughSketch</artist>
+		<series __type="u8">21</series>
+		<limited_ary __type="s32" __count="10">0 0 0 0 -1 -1 0 0 0 -1</limited_ary>
+		<diffLv __type="u8" __count="10">4 8 14 16 0 0 8 14 16 0</diffLv>
+	</music>
+	<music>
+		<mcode __type="u32">37604</mcode>
+		<basename>elrt</basename>
+		<title>El ritmo te controla </title>
+		<title_yomi>elritmotecontrola</title_yomi>
+		<artist>Jeanette Herrera  </artist>
+		<series __type="u8">21</series>
+		<limited_ary __type="s32" __count="10">1 1 1 1 1 -1 1 1 1 1</limited_ary>
+		<diffLv __type="u8" __count="10">2 4 6 17 18 0 9 13 16 18</diffLv>
+	</music>
 </mdb>
